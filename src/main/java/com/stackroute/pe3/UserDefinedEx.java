@@ -11,7 +11,7 @@ public class UserDefinedEx {
         }
         catch (Exception e)
         {
-            System.out.println(e);
+           e.printStackTrace();
         }
     }
 }
